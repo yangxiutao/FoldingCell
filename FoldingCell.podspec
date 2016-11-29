@@ -16,10 +16,10 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
    
 
-  s.author             = { “yangxiutao” => “546822414@qq.com" }
+  s.author             = { "yangxiutao" => "546822414@qq.com"}
   
 
-  s.platform     = :ios, “8.0”
+  s.platform     = :ios, "8.0"
   s.requires_arc = true
   s.source       = { :git => "https://github.com/yangxiutao/FoldingCell.git", :tag => "{s.version}" }
 
