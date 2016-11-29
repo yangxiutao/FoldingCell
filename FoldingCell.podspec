@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios, "8.0"
   s.requires_arc = true
   s.source       = { :git => "https://github.com/yangxiutao/FoldingCell.git", :tag => "1.0.0" }
-  s.source_files  = "FoldingCell/FoldingTableView", "FoldingCell/FoldingTableView/*.{h,m}"
+  s.source_files  = "FoldingCell/FoldingTableView", "FoldingCell/FoldingTableView/**/*.{h,m}"
   s.frameworks = 'Foundation', 'UIKit'
 
 end
