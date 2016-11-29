@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
 
  
 
-  s.source_files  = "FoldingCell/”, "FoldingCell/FoldingCell/FoldingCell/FoldingTableView/*.{h,m}"
+  s.source_files  = "FoldingCell/", "FoldingCell/FoldingCell/FoldingCell/FoldingTableView/*.{h,m}"
    
   
 
